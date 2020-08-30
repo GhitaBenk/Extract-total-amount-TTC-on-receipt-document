@@ -1,0 +1,1 @@
+# Extract-total-amount-TTC-on-receipt-document
